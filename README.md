@@ -8,7 +8,7 @@ This project applies **advanced SQL techniques** like CTEs, window functions, ag
 
 ---
 
-## 🧪 Dataset Scope
+## Dataset Scope
 
 - **Players**: Player demographics, debut/final game, handedness (bat/throw), height, and weight.
 - **Salaries**: Annual player salaries across years and teams.
@@ -78,13 +78,6 @@ This project applies **advanced SQL techniques** like CTEs, window functions, ag
 
 ---
 
-## Visual Outputs
-
-> Sample images and SQL snippets have been added in the project folder to demonstrate real-time query results and EDA outputs.
-
----
-
 ## Author
-
 **Shivam Oza**  
 
