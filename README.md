@@ -1,6 +1,6 @@
 # ⚾ MLB Player Data Analysis — SQL Portfolio Project
 
-## Project Overview
+## Project Overview 
 
 This project simulates the role of a **Data Analyst for Major League Baseball (MLB)**. The goal was to explore and analyze comprehensive historical data about MLB players—ranging from their educational background to salary trends, career trajectories, and player physical attributes.
 
